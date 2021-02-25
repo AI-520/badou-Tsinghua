@@ -1,3 +1,5 @@
+# !usr/bin/env python
+# encoding = gbk
 import cv2 as cv
 import numpy as np
 
